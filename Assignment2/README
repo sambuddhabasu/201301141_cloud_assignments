@@ -1,0 +1,2 @@
+Files in the directory:
+  custom_topo.py -> Custom Network Topology created using Mininet python APIs. In this topology, all switches are connected. Even hosts can ping only other even hosts and odd hosts can ping only other odd hosts.
